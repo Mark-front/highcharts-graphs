@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+body {
+  background-color: #4E4E4E;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  margin: 0 auto;
+}
+
+.highcharts-point {
+  transition: opacity 300ms;
+}
+
+.highcharts-point-inactive {
+  opacity: 0.2;
+  transition: opacity 300ms;
+}
+
+.container-diagram {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-diagram h2 {
+  font-size: 18px;
+  max-width: 400px;
+  text-align: center;
+}
+
+.subtitle-text {
+
+}
+
+.subtitle-container {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.subtitle-main {
+  font-size: 32px;
+  font-weight: 900;
+  color: #fff;
+}
