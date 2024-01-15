@@ -1,20 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
 
 * {
   font-family: 'Inter', sans-serif;
-}
-body {
-  background-color: #4E4E4E;
+  box-sizing: border-box;
 }
 
 #root {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  gap: 40px;
-  margin: 0 auto;
 }
 
 .highcharts-point {
@@ -30,6 +23,8 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
+  width: 100vw;
+  height: 100vh;
 }
 
 .container-diagram h2 {
@@ -53,4 +48,14 @@ body {
   font-size: 32px;
   font-weight: 900;
   color: #fff;
+}
+
+
+.daddy {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: pink;
 }

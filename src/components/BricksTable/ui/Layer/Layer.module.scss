@@ -1,0 +1,28 @@
+.Layer {
+    --paddingName: 5px;
+
+    display: grid;
+    align-items: center;
+    grid-template-columns: calc(1rem + var(--paddingName)*2) 1fr;
+    grid-template-rows: 1fr;
+    gap: 5px;
+
+    .name {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: var(--paddingName) 0;
+        font-size: 1rem;
+        font-weight: bold;
+        color: #439343;
+        transform: rotate(-90deg);
+    }
+
+    .content {
+        display: grid;
+        width: 100%;
+        grid-template-columns: minmax(80px, 1fr);
+        gap: 5px;
+    }
+}
+

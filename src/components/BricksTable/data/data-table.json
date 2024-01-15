@@ -1,0 +1,1293 @@
+{
+    "Layer":[
+        {
+            "layer_name": "Gov",
+            "layer_height": 1
+        },
+        {
+            "layer_name": "Process",
+            "layer_height": 2
+        },
+        {
+            "layer_name": "App&Access",
+            "layer_height": 2
+        },
+        {
+            "layer_name": "Security",
+            "layer_height": 2
+        },
+        {
+            "layer_name": "Technology",
+            "layer_height": 2
+        }
+    ],
+    "Group":[
+        {
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "group_height": 1,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "group_height": 2,
+            "group_width": 4
+        },
+        {
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "group_height": 2,
+            "group_width": 4
+        },
+        {
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "group_height": 2,
+            "group_width": 2
+        },
+        {
+            "layer_name": "Process",
+            "group_name": "DPO",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Process",
+            "group_name": "HR",
+            "group_height": 2,
+            "group_width": 0.5
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "group_height": 2,
+            "group_width": 2
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "Авторизация\/Контроль",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "Управление РМ",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "group_height": 2,
+            "group_width": 3
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "empty_group",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "App&Access",
+            "group_name": "3d parties",
+            "group_height": 2,
+            "group_width": 0.5
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Защита БД",
+            "group_height": 2,
+            "group_width": 0.5
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Защита периметра",
+            "group_height": 2,
+            "group_width": 0.5
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "SOC",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Безопасность разработки",
+            "group_height": 2,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Security",
+            "group_name": "Антифрод",
+            "group_height": 2,
+            "group_width": 0.5
+        },
+        {
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "group_height": 1,
+            "group_width": 1
+        },
+        {
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "group_height": 1,
+            "group_width": 1
+        }
+    ],
+    "Brick":[
+        {
+            "brick_short_name": "250 У",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "red",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 2
+        },
+        {
+            "brick_short_name": "166 У",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "yellow",
+            "brick_tags": "КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "152 ФЗ",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "187 ФЗ",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "161 ФЗ",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "6354 У",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ГОСТ 15408",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "стандарты PCI",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "719-П",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ISO 27001",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "747-П",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "683-П",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "716-П КПУР",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "brick_tags": "КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "норм. акты ФСТЭК, ФСБ",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ГОСТ Р 57580.1",
+            "layer_name": "Gov",
+            "group_name": "empty_group",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Availability Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Provision",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Compl Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Change Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Release Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Problem Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Access Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 4
+        },
+        {
+            "brick_short_name": "Capacity Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "BCM",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Supplier Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Config Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Patch Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "yellow",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Incident Mgt",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Agile",
+            "layer_name": "Process",
+            "group_name": "ITSM",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Защита от утечек",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Киберучения",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "yellow",
+            "brick_tags": "КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Противодействие киберм-ву",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SOC",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "VM",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Risk Mgt",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "brick_tags": "КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Аналитические сервисы",
+            "layer_name": "Process",
+            "group_name": "Процессы КБ",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Бизнес-процессы",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Оценка без-ти релиза",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Мониторинг конвейера",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Выставление требований",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Выявление дефектов",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Безопасный конвейер",
+            "layer_name": "Process",
+            "group_name": "Разработка",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Потоки данных",
+            "layer_name": "Process",
+            "group_name": "DPO",
+            "brick_color": "red",
+            "brick_tags": "М",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ILM",
+            "layer_name": "Process",
+            "group_name": "DPO",
+            "brick_color": "red",
+            "brick_tags": "М, РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Описание данных",
+            "layer_name": "Process",
+            "group_name": "DPO",
+            "brick_color": "red",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 2
+        },
+        {
+            "brick_short_name": "Управление персоналом",
+            "layer_name": "Process",
+            "group_name": "HR",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Повышение киберграм",
+            "layer_name": "Process",
+            "group_name": "HR",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "2 FA",
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "TeamID",
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "CyberPass",
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "brick_color": "red",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "СУДИР\/NGAM",
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "brick_color": "red",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "PKI\/PKINIT",
+            "layer_name": "App&Access",
+            "group_name": "Идентификация\/Аутентификация",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "САКС",
+            "layer_name": "App&Access",
+            "group_name": "Авторизация\/Контроль",
+            "brick_color": "yellow",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "PAM",
+            "layer_name": "App&Access",
+            "group_name": "Авторизация\/Контроль",
+            "brick_color": "green",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SecMan",
+            "layer_name": "App&Access",
+            "group_name": "Авторизация\/Контроль",
+            "brick_color": "yellow",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ФИР",
+            "layer_name": "App&Access",
+            "group_name": "Авторизация\/Контроль",
+            "brick_color": "green",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "РМ в АС",
+            "layer_name": "App&Access",
+            "group_name": "Управление РМ",
+            "brick_color": "yellow",
+            "brick_tags": "М",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "IDM",
+            "layer_name": "App&Access",
+            "group_name": "Управление РМ",
+            "brick_color": "red",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "РМ подразделений",
+            "layer_name": "App&Access",
+            "group_name": "Управление РМ",
+            "brick_color": "green",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Платформа",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ERP системы",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ЕСРТ",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "green",
+            "brick_tags": "М, РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SberAPI",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Фабрика",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "green",
+            "brick_tags": "М",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Unifed communications",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Облачные сервисы",
+            "layer_name": "App&Access",
+            "group_name": "Защита бизнес доменов",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ВСП без Альфы",
+            "layer_name": "App&Access",
+            "group_name": "empty_group",
+            "brick_color": "red",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Архитектура АС",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "yellow",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "AS Archive",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "green",
+            "brick_tags": "РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Container App",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "green",
+            "brick_tags": "М, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ARIS",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "МЕТА",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "AS Legacy",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Secure transfer",
+            "layer_name": "App&Access",
+            "group_name": "Безопасность АС",
+            "brick_color": "green",
+            "brick_tags": "М",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ДЗО",
+            "layer_name": "App&Access",
+            "group_name": "3d parties",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Партнеры",
+            "layer_name": "App&Access",
+            "group_name": "3d parties",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DAG",
+            "layer_name": "Security",
+            "group_name": "Защита БД",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DAM",
+            "layer_name": "Security",
+            "group_name": "Защита БД",
+            "brick_color": "green",
+            "brick_tags": "М, РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "EDR",
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Container Security",
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "АВПО",
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Vuln DB",
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Scanner",
+            "layer_name": "Security",
+            "group_name": "Защита Endpoint",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "NDR",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "NSM",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "FW",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "red",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Viavi",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "NGFW",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "red",
+            "brick_tags": "М, РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "IDS",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "red",
+            "brick_tags": "Р",
+            "line_in_group": 2,
+            "brick_width": 3
+        },
+        {
+            "brick_short_name": "SOWA",
+            "layer_name": "Security",
+            "group_name": "Защита сети",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DLP",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DMS",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SDCT",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "IRM",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "UBA",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Crawler",
+            "layer_name": "Security",
+            "group_name": "Защита каналов утечки",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "AntiDDoS",
+            "layer_name": "Security",
+            "group_name": "Защита периметра",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "WAF",
+            "layer_name": "Security",
+            "group_name": "Защита периметра",
+            "brick_color": "red",
+            "brick_tags": "РР",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "TIP",
+            "layer_name": "Security",
+            "group_name": "SOC",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "IRP",
+            "layer_name": "Security",
+            "group_name": "SOC",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "RTCE",
+            "layer_name": "Security",
+            "group_name": "SOC",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ПКБ",
+            "layer_name": "Security",
+            "group_name": "SOC",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SAST",
+            "layer_name": "Security",
+            "group_name": "Безопасность разработки",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DAST",
+            "layer_name": "Security",
+            "group_name": "Безопасность разработки",
+            "brick_color": "red",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SCA",
+            "layer_name": "Security",
+            "group_name": "Безопасность разработки",
+            "brick_color": "yellow",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "АПТБ",
+            "layer_name": "Security",
+            "group_name": "Безопасность разработки",
+            "brick_color": "green",
+            "line_in_group": 2,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SAFP",
+            "layer_name": "Security",
+            "group_name": "Антифрод",
+            "brick_color": "green",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SberLinux",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "AD",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "brick_tags": "М, РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SberOS",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "СМА",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "green",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "MDM",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "brick_tags": "РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "DB",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "brick_tags": "М",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "SberNAC",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "СКРАФ",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Monitoring",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Middleware",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Platform V",
+            "layer_name": "Technology",
+            "group_name": "СПО\/ППО",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Инженерные системы (ЦОД)",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "ТСО",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "red",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "АТМ",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Сервера",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "АРМ",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Тех АРМ (ЕИРС СУО)",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 2
+        },
+        {
+            "brick_short_name": "VDI",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "red",
+            "brick_tags": "КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Mobile",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "СХД",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Сети",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "WiFi",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "green",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "802.1x",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "red",
+            "brick_tags": "М, РР, КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "VPN",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Сегментация",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "red",
+            "brick_tags": "М, РР",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Virtualization",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "yellow",
+            "brick_tags": "КРГ",
+            "line_in_group": 1,
+            "brick_width": 1
+        },
+        {
+            "brick_short_name": "Контейнеризация",
+            "layer_name": "Technology",
+            "group_name": "Инфраструктура и сети",
+            "brick_color": "yellow",
+            "line_in_group": 1,
+            "brick_width": 1
+        }
+    ]
+}

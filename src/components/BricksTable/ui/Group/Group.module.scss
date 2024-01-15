@@ -1,0 +1,32 @@
+.Group {
+    position: relative;
+    padding: 1.2rem 5px 5px;
+    border-radius: 4px;
+    border: 1px solid #7e7e7e;
+    display: grid;
+    grid-template-columns: 1fr;
+
+
+    .name {
+        position: absolute;
+        right: 5px;
+        top: 2.5px;
+        font-size: .7rem;
+    }
+
+    .content {
+        display: flex;
+        gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+        width: 100%;
+        height: calc(100% - 10%);
+
+        &:not(:last-child) {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.isEmptyGroupBrick {
+    border: none !important;
+}

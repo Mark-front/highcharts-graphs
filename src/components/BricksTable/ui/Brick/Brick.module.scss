@@ -1,0 +1,23 @@
+.Brick {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 3px;
+    border-radius: 3px;
+    text-align: center;
+    min-height: 30px;
+    height: 100%;
+    flex-grow: 1;
+
+
+    .tags {
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        display: flex;
+        justify-content: space-between;
+        width: calc(100% - 4px);
+        font-size: .6rem;
+    }
+}
